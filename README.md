@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Usando AI (Inteligência Artificial) para criar imagens realistas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Através de prompts que eu escrevi a IA conseguiu compreender esse prompts, e apartir deles criar imagens realistas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Site usado para a criação das imagens: <a href="https://app.leonardo.ai/">Leonardo.ai</a>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+<p align="justify">Através de algumas idéias que eu tive na hora, escrevi prompts dentro do site para a geração de imagens, para deixar as imagens com cara de foto selecionei a opção Stock Photography, pronto imagens incríveis e realistas criadas em poucos segundos<p>
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Alguns prompts não resultaram no que eu esperava, mas mesmo assim consegui ótimas imagens. Para ver as fotos basta ir até a pasta...
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+<p align ="justify">Não foi a minha primeira vez criando imagens com IA, mesmo assim é incrível como que podemos criar através de comandos simples imagens perfeitas e bem realistas, porém como tudo não são flores, percebi que para alguns prompts a IA meio que se perde, fazendo parte do que foi solicitado e deixando alguns itens solicitados no prompt fora da imagem. Enfim, essas tecnologias são ótimas e podemos usar para muitas coisas boa, porém temos que saber usar com responsabilidade.</p>
