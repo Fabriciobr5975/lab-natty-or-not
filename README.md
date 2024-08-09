@@ -14,3 +14,6 @@ Site usado para a criação das imagens: <a href="https://app.leonardo.ai/">Leon
 
 ## 💭 Reflexão (Opcional)
 <p align ="justify">Não foi a minha primeira vez criando imagens com IA, mesmo assim é incrível como que podemos criar através de comandos simples imagens perfeitas e bem realistas, porém como tudo não são flores, percebi que para alguns prompts a IA meio que se perde, fazendo parte do que foi solicitado e deixando alguns itens solicitados no prompt fora da imagem. Enfim, essas tecnologias são ótimas e podemos usar para muitas coisas boa, porém temos que saber usar com responsabilidade.</p>
+
+##
+<h4><div align = "center"> Feito por <a href = "https://github.com/Fabriciobr5975"> Fabrício de Araújo Santana</a></div></h4>
